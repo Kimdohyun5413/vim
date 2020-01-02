@@ -1,6 +1,3 @@
-//git status
-//git add .
-//git commit -m '파일추가'
 
 h, j, k, l - 좌,하,상,우 커서이동
 
